@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="N11PictureTests" thread-count="2" parallel="tests">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2"></listener>
+    </listeners>
+    <test name="browserTestOnGoogle">
+        <parameter name="browser" value="google"></parameter>
+        <classes>
+            <class name="N11FilterTest.N11OppurtunityMessageForProductsTest"></class>
+        </classes>
+    </test>
+    <test name="browserTestOnFireFox">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="N11FilterTest.N11OppurtunityMessageForProductsTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="957cc10d-bd7e-4f8f-8799-7ab1418f2563" name="Changes" comment="" />
+    <list default="true" id="957cc10d-bd7e-4f8f-8799-7ab1418f2563" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +20,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BoraSari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BoraSari/N11OppurtunityCheckAutomationProject.git&quot;,
+    &quot;accountId&quot;: &quot;30c72063-5dd8-4a06-b213-c4a42503071c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2prDILkQ6RJlppx3zyz8exaHkTl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,8 +47,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.N11FilterProductsTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/main/java/org/example/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
@@ -39,7 +60,7 @@
 }</component>
   <component name="RunManager" selected="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml">
     <configuration name="C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="N11SecondLastProject" />
+      <module name="N11 E-commerce Web App Oppurtunity Icon and message chect test" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/N11FilterTest/N11Test.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
@@ -49,7 +70,7 @@
       </method>
     </configuration>
     <configuration name="N11OppurtunityMessageForProductsTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="N11SecondLastProject" />
+      <module name="N11 E-commerce Web App Oppurtunity Icon and message chect test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="N11FilterTest.*" />

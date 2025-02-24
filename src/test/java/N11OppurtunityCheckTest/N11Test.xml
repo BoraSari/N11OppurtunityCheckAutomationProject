@@ -6,13 +6,13 @@
     <test name="browserTestOnGoogle">
         <parameter name="browser" value="google"></parameter>
         <classes>
-            <class name="N11FilterTest.N11OppurtunityMessageForProductsTest"></class>
+            <class name="N11OppurtunityCheckTest.N11OppurtunityMessageForProductsTest"></class>
         </classes>
     </test>
     <test name="browserTestOnFireFox">
         <parameter name="browser" value="firefox"></parameter>
         <classes>
-            <class name="N11FilterTest.N11OppurtunityMessageForProductsTest"></class>
+            <class name="N11OppurtunityCheckTest.N11OppurtunityMessageForProductsTest"></class>
         </classes>
     </test>
 </suite>

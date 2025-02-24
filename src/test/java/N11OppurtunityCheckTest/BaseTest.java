@@ -1,4 +1,4 @@
-package N11FilterTest;
+package N11OppurtunityCheckTest;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

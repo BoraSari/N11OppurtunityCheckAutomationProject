@@ -1,4 +1,4 @@
-package N11FilterTest;
+package N11OppurtunityCheckTest;
 
 import N11Pages.ProductDetailsPage;
 import N11Pages.ProductsResultPage;

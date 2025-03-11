@@ -7,19 +7,19 @@ import org.openqa.selenium.support.PageFactory;
 
 public class ProductDetailsPage extends BasePage {
     @FindBy(css = "div[class='point-balance-text']")
-    private WebElement oppurtunityMessage;
+    private WebElement opportunityMessage;
     public ProductDetailsPage(WebDriver driver) {
         super(driver);
         PageFactory.initElements(driver,this);
     }
 
 
-    public WebElement checkOppurtinityMessage(){
-        WebElement message = oppurtunityMessage;
+    public WebElement checkOpportinityMessage(){
+        WebElement message = opportunityMessage;
         return message;
     }
 
-    public String checkOppurtunityMessage(){
-        return oppurtunityMessage.getText();
+    public String checkOpportunityMessage(){
+        return opportunityMessage.getText();
     }
 }

@@ -1,4 +1,4 @@
-package N11OppurtunityCheckTest;
+package N11OpportunityCheckTest;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -41,6 +41,10 @@ public class BaseTest {
     @AfterClass
     public void tearDown(){
         softAssert.assertAll("All tests are asserted.");
-        driver.quit();
+        if(driver!=null){
+            driver.quit();
+            driver=null;
+        }
+
     }
 }

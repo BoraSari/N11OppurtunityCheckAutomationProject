@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="957cc10d-bd7e-4f8f-8799-7ab1418f2563" name="Changes" comment="">
+    <list default="true" id="957cc10d-bd7e-4f8f-8799-7ab1418f2563" name="Changes" comment="Test updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/N11OppurtunityCheckTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/N11OpportunityCheckTest/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/N11OppurtunityCheckTest/N11OppurtunityMessageForProductsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/N11OpportunityCheckTest/N11OppurtunityMessageForProductsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/N11OppurtunityCheckTest/N11Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/N11OpportunityCheckTest/N11Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/N11Pages/ProductDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/N11Pages/ProductDetailsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,24 +49,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.N11FilterProductsTest.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml.executor": "Run",
+    "TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OpportunityCheckTest/N11Test.xml.executor": "Run",
+    "TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OppurtunityCheckTest/N11Test.xml.executor": "Run",
+    "TestNG.N11FilterProductsTest.executor": "Run",
+    "TestNG.N11OppurtunityMessageForProductsTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml">
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OpportunityCheckTest/N11Test.xml">
     <configuration name="C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="N11 E-commerce Web App Oppurtunity Icon and message chect test" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/N11FilterTest/N11Test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OpportunityCheckTest/N11Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="N11 E-commerce Web App Oppurtunity Icon and message chect test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/N11OpportunityCheckTest/N11Test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OppurtunityCheckTest/N11Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="N11 E-commerce Web App Oppurtunity Icon and message chect test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/N11OppurtunityCheckTest/N11Test.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -73,12 +101,12 @@
       <module name="N11 E-commerce Web App Oppurtunity Icon and message chect test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="N11FilterTest.*" />
+          <option name="PATTERN" value="N11OpportunityCheckTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="N11FilterTest" />
-      <option name="MAIN_CLASS_NAME" value="N11FilterTest.N11OppurtunityMessageForProductsTest" />
+      <option name="MAIN_CLASS_NAME" value="N11OpportunityCheckTest.N11OppurtunityMessageForProductsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -88,8 +116,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml" />
+        <item itemvalue="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OpportunityCheckTest/N11Test.xml" />
+        <item itemvalue="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11OppurtunityCheckTest/N11Test.xml" />
         <item itemvalue="TestNG.N11OppurtunityMessageForProductsTest" />
+        <item itemvalue="TestNG.C:/Users/EXCALIBUR/IdeaProjects/N11SecondLastProject/src/test/java/N11FilterTest/N11Test.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +132,20 @@
       <option name="presentableId" value="Default" />
       <updated>1733515222302</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test updated">
+      <option name="closed" value="true" />
+      <created>1740419287179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740419287179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
